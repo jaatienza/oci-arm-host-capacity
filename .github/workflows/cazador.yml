@@ -1,8 +1,8 @@
 name: Oracle Free Instance Hunter (Python Stable)
 
 on:
-  workflow_dispatch: 
-  schedule:
+  #workflow_dispatch: 
+#  schedule:
 #    - cron: '*/30 * * * *' 
 
 jobs:
